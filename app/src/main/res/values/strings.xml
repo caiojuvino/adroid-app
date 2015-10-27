@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tenis Counter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="player1_name">Caio</string>
+    <string name="player2_name">Neto</string>
+</resources>
